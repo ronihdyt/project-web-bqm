@@ -1,0 +1,5 @@
+Membuat Plan Baru
+- Ubah halaman beranda
+- Ubah halaman berita
+- Ubah halaman gallery
+- Migrations halaman berita dan gallery
