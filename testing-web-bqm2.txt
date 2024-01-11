@@ -1,6 +1,7 @@
 Membuat Plan Baru
 - Ubah halaman beranda
 - Ubah halaman berita
+  Menambahkan bundle berita
 - Ubah halaman gallery
 - Migrations halaman berita dan gallery
   Menghubungkan halaman berita dan gallery yang ada di dashboard dengan halaman admin
